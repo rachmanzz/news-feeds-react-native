@@ -23,7 +23,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
-    }
+      "supportsTablet": true,
+      "bundleIdentifier": "id.rahmantech.app.feed2"
+    },
+    "android": {
+      "package": "id.rahmantech.app.feed2"
+    },
+    "description": "this application Collect news data from http://newsapi.org.",
+    "githubUrl": "https://github.com/rachmanzz/news-feeds-react-native"
   }
 }
