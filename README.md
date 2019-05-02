@@ -17,4 +17,4 @@ lodash is helpfull module that have many functional like debounce. in this proje
 
 
 ## expo resource 
-https://expo.io/@rachmanzz/newsfeed
+https://expo.io/@rachmanzz/NewsFeed2
